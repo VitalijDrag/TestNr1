@@ -15,7 +15,3 @@ class GFG {
         System.out.println("Reversed wrod: "+ nstr);
     }
 }
-
-
-public class ReverseStringNr1 {
-}
