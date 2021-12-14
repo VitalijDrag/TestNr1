@@ -2,6 +2,7 @@ class ReverseString2 {
     public static void main(String[] args)
     {
         String input = "Vitalij";
+        
         byte[] strAsByteArray = input.getBytes();
         byte[] result = new byte[strAsByteArray.length];
 
